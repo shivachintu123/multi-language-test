@@ -13,9 +13,9 @@ Multi-language sample project
 
 > mvn sonar:sonar
 
-- Using Sonar Runner: *(Java classes are already compiled in "target/classes" for your convenience)*
+- Using Sonar Scanner: *(Java classes are already compiled in "target/classes" for your convenience)*
 
-> sonar-runner
+> sonar-scanner
 
 #### Pull Request analyses
 

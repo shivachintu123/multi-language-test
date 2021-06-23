@@ -9,7 +9,9 @@
     <properties>
         <sonar.sources>src/main</sonar.sources>
         <sonar.tests>src/test</sonar.tests>
-
+       <sonar.host.url>http://3.90.110.25:9000/</sonar.host.url>
+		<sonar.login>admin</sonar.login>
+		<sonar.password>admin</sonar.password>
         <!-- For Java -->
         <sonar.junit.reportsPath>reports/java/surefire-reports</sonar.junit.reportsPath>
         <sonar.jacoco.reportPath>reports/java/jacoco.exec</sonar.jacoco.reportPath>
